@@ -1,4 +1,4 @@
-# Powerbi_dashboard_project
+# UNP-Project_BI-with-PowerBi_supply-chain
 
 completed this project as part of my BI with power BI internship with united network of professionals (UNP).
 
